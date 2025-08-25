@@ -58,6 +58,17 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 <img width="1806" height="933" alt="image" src="https://github.com/user-attachments/assets/ff218f5a-d95a-411a-b5f6-7659a2550b48" />
 <img width="1701" height="642" alt="image" src="https://github.com/user-attachments/assets/3edeb0d1-548c-41f4-a1d7-72e933ffc0c8" />
 
+## MODIFY
+<img width="1679" height="591" alt="image" src="https://github.com/user-attachments/assets/bc21227c-22d1-4212-a7fc-3a1152dd4ee9" />
+<img width="1886" height="753" alt="image" src="https://github.com/user-attachments/assets/2c47a574-1503-41a0-b1da-ddd7d94148ab" />
+
+## DELETE
+<img width="1512" height="513" alt="image" src="https://github.com/user-attachments/assets/f8a641c4-cfd9-49a4-96d9-bfb07f785985" />
+<img width="1755" height="669" alt="image" src="https://github.com/user-attachments/assets/61084f1e-f722-46f0-9a6f-b2218f930442" />
+
+## SEARCH
+<img width="1818" height="588" alt="image" src="https://github.com/user-attachments/assets/5687261f-ba64-4fac-802d-03b6745b7084" />
+
 
 
 
