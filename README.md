@@ -50,4 +50,8 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+## Main Page
+<img width="1944" height="1503" alt="image" src="https://github.com/user-attachments/assets/4add8984-be45-4399-b41a-c4c0f31458fe" />
+
+
 
