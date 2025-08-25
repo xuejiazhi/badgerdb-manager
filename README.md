@@ -53,5 +53,11 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ## Main Page
 <img width="1944" height="1503" alt="image" src="https://github.com/user-attachments/assets/4add8984-be45-4399-b41a-c4c0f31458fe" />
 
+## ADD NEW
+<img width="1668" height="483" alt="image" src="https://github.com/user-attachments/assets/1cba6ac3-0ef4-4587-8649-5bd56f36780f" />
+<img width="1806" height="933" alt="image" src="https://github.com/user-attachments/assets/ff218f5a-d95a-411a-b5f6-7659a2550b48" />
+<img width="1701" height="642" alt="image" src="https://github.com/user-attachments/assets/3edeb0d1-548c-41f4-a1d7-72e933ffc0c8" />
+
+
 
 
